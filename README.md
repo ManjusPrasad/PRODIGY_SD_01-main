@@ -24,7 +24,7 @@ This is a Python GUI project that converts temperatures between **Celsius, Fahre
 
 ##  Screenshot
 
-![App Screenshot](pic.png)
+![App Screenshot](tempcovertpic.png)
 
 ---
 
