@@ -30,7 +30,7 @@ This is a Python GUI project that converts temperatures between **Celsius, Fahre
 
 ##  Developed By
 
-**Vaishnavi Lalan**  
+**ManjuPrasad**  
 Aspiring Developer | Beginner Coder | Problem Solver   
 [LinkedIn](https://www.linkedin.com/in/manju-prasad-86b729377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/ManjusPrasad)
 
